@@ -1,0 +1,4 @@
+description = "Hist - create histograms"
+version = "1.0"
+requires = "mikmatch_pcre"
+
